@@ -1,0 +1,12 @@
+body.light {
+  background-color: #f0f0f0;
+  color: #000;
+}
+body.dark {
+  background-color: #121212;
+  color: #fff;
+}
+.App {
+  text-align: center;
+  padding: 2rem;
+}
